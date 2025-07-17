@@ -1,9 +1,9 @@
 # ⭕❌ Tic Tac Toe  
 A classic game built with vanilla JavaScript.  
 
-[Live Demo](YOUR_NETLIFY_LINK) | [View Code](YOUR_GITHUB_REPO_LINK)  
+[Live Demo](YOUR_NETLIFY_LINK)  
 
-![Game Screenshot](screenshot.png)  
+![Game Screenshot](screenshot3.jpg)  
 
 ## Features  
 - Player vs Player mode  
