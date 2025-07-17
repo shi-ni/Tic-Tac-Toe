@@ -1,7 +1,7 @@
 # ⭕❌ Tic Tac Toe  
 A classic game built with vanilla JavaScript.  
 
-[Live Demo]([YOUR_NETLIFY_LINK](https://earnest-pothos-cfbfa6.netlify.app/))  
+[Live Demo](https://earnest-pothos-cfbfa6.netlify.app/)  
 
 ![Game Screenshot](screenshot3.jpg)  
 
@@ -11,7 +11,7 @@ A classic game built with vanilla JavaScript.
 - Responsive design  
 
 ## How to Play  
-1. Visit the [Live Demo]([YOUR_NETLIFY_LINK](https://earnest-pothos-cfbfa6.netlify.app/))  
+1. Visit the [Live Demo](https://earnest-pothos-cfbfa6.netlify.app/)  
 2. Or download files → open `index.html`  
 
 ## Built With  
